@@ -12,12 +12,12 @@ body {
 }
 
 #twoButton {
-    position: absolute;
+    position: relative;
     margin-right: 150px;
 }
 
 #threeButton {
-    position: absolute;
+    position: relative;
     margin-right: 150px;
 }
 
