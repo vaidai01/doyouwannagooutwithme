@@ -7,7 +7,7 @@ body {
 }
 
 #oneButton {
-    position: relative;
+    position: absolute;
     margin-left: 150px
 }
 
