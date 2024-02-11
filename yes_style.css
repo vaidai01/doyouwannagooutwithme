@@ -16,18 +16,10 @@ body {
     margin-bottom: 0px;
 }
 
-#ProceedButton {
-    position: relative;
-    margin-right: 300px;
-}
-
-.buttons {
+.gif_container {
     display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
-    margin-left: 20px;
 }
 
 .btn {
@@ -44,8 +36,11 @@ body {
     transition: background-color 0.3s ease;
 }
 
-.gif_container {
+.buttons {
     display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
 }
