@@ -7,7 +7,7 @@ body {
 }
 
 #oneButton {
-    position: absolute;
+    position: relative;
     margin-left: 150px
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 #fourButton {
-    position: absolute;
+    position: relative;
     margin-right: 150px;
 }
 
